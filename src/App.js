@@ -12,7 +12,7 @@ function App() {
   
 
   
-  const baseUrl = ("https://pruebas2134.000webhostapp.com/ReactCRUD/");
+  const baseUrl = ("http://bagp.lovestoblog.com/?id=1");
      
   
   const[data, setData]=useState([]);
