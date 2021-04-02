@@ -125,6 +125,12 @@ para poder eliminar o editar*/
   },[])
   return (
     <div style={{textAlign:'center'}}>
+    <div style={{itemsAling:'center'}}>
+   https://github.com/BRAYANpro/ReactCrud02
+    </div>
+     <br/>
+      Consumo de API con php, mysql y react.
+      <br /><br />
       <br/>
       <button className="btn btn-success" onClick={()=>abrirCerrarModalInsertar()}>Insertar</button>
       <br /><br />
