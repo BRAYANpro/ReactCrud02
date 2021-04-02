@@ -12,7 +12,7 @@ function App() {
   
 <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"> 
   
-  const baseUrl = ("http://bagp.lovestoblog.com/?id=1");
+  const baseUrl = ("https://bagp.lovestoblog.com/?id=1");
      
   
   const[data, setData]=useState([]);
