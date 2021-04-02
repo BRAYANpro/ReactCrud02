@@ -12,7 +12,7 @@ function App() {
   
 <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"> 
   
-  const baseUrl = ("https://pruebas2134.000webhostapp.com/ReactCRUD/index.php");
+  const baseUrl = ("https://cors-anywhere.herokuapp.com/https://pruebas2134.000webhostapp.com/ReactCRUD/index.php");
      
   
   const[data, setData]=useState([]);
