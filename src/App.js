@@ -12,7 +12,7 @@ function App() {
   
 
   
-  const baseUrl = ("http://bagp.lovestoblog.com/");
+  const baseUrl = ("http://bagp.lovestoblog.com/?id=1");
      
   
   const[data, setData]=useState([]);
