@@ -1,3 +1,5 @@
+# copiar y pegar la siguiente URL si estas usando un hosting gratuito para PHP para no tener problemas con las corns, esto solo servira temporalmente te recomiendo cambiar a un host de paga
+https://cors-anywhere.herokuapp.com/https://pruebas2134.000webhostapp.com/ReactCRUD/index.php
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
